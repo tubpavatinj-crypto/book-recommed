@@ -1,0 +1,29 @@
+div {
+/*border: 2px solid purple;*/
+}
+
+.bg{
+background-color: #feffbe;
+}
+
+h3,h6{
+        font-family: 'Mitr',sans-serif;
+        font-weight: 500;
+    }
+
+ p {
+        font-family: 'Pridi', sans-serif;
+        font-weight: 400;
+        text-indent: 50px;
+    }
+
+h1{
+    font-family: 'sriracha', sans-serif;
+font-weight: 400;
+}
+
+
+.bg2{
+    background-color: #f8f18e;
+}
+
